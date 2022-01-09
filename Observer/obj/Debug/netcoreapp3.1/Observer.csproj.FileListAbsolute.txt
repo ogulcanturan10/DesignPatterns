@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+D:\C#\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+D:\C#\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\C#\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\C#\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

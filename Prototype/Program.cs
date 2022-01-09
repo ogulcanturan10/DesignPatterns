@@ -13,6 +13,7 @@ namespace Prototype
             Console.WriteLine(customer1.FirstName);
             Console.WriteLine(customer2.FirstName);
 
+            Console.ReadLine();
         }
     }
 
