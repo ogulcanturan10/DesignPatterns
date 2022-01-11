@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+D:\C#\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+D:\C#\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache
