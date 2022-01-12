@@ -29,13 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{D1201937-B6DA-4B25-B1CF-2B7C61DD1087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{C86DCE16-C436-4610-943F-95606C909384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{C86DCE16-C436-4610-943F-95606C909384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{27ECC7B6-8C39-4398-BAB6-17DA1D098C1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{27ECC7B6-8C39-4398-BAB6-17DA1D098C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{DCCA496D-8E66-4682-BD00-700C54CC4FB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{DCCA496D-8E66-4682-BD00-700C54CC4FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{1F678932-ACF4-4364-876D-46FD814A06A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{1F678932-ACF4-4364-876D-46FD814A06A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{E61BC126-D243-4069-8783-A85193D00153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{1F678932-ACF4-4364-876D-46FD814A06A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F678932-ACF4-4364-876D-46FD814A06A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F678932-ACF4-4364-876D-46FD814A06A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61BC126-D243-4069-8783-A85193D00153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61BC126-D243-4069-8783-A85193D00153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61BC126-D243-4069-8783-A85193D00153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61BC126-D243-4069-8783-A85193D00153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
